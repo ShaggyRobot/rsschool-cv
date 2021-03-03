@@ -18,7 +18,7 @@ in [Python](https://stepik.org/cert/743503) and [C#](https://stepik.org/cert/378
 **Front-end developer**  
 
 ## **Languages:**  
-**Rusian - fluent**  
+**Russian - fluent**  
 **English - A1-A2**  
 
 ![RSSchool](https://raw.githubusercontent.com/ShaggyRobot/rsschool-cv/gh-pages/rs_school.png)
