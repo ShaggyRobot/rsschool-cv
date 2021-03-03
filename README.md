@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://shaggyrobot.github.io/rsschool-cv/cv
