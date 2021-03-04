@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Open+Sans');
+
+a {
+  text-decoration: none;
+  color: black;
+}  
+
+a:hover {
+  color: rgb(34, 196, 107);
+}  
+
+.h3 {
+font-family: 'PT Serif';
+font-size: 20px;
+font-weight: 600;
+}  
+
+.header {
+  font-family: 'PT Serif';
+  font-weight: 600;
+  display: flex;
+  height: 150px;
+  justify-content: space-between;
+}  
+
+.contacts {
+height: 100px;  
+  padding-top: 22px;
+  width: 33%;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  text-align: start;
+}  
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  padding-left: 15px;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: ivory;
+  font-family: 'Open Sans';
+}  
+
+.footer {
+  height: 60px;
+  padding-right: 15px;
+}  
+
+.rslogo {
+  height: 50px;
+  float: right;
+}    
+
