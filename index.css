@@ -3,17 +3,17 @@
 a {
   text-decoration: none;
   color: black;
-}  
+}
 
 a:hover {
   color: rgb(34, 196, 107);
-}  
+}
 
 .h3 {
-font-family: 'PT Serif';
-font-size: 20px;
-font-weight: 600;
-}  
+  font-family: 'PT Serif';
+  font-size: 20px;
+  font-weight: 600;
+}
 
 .header {
   font-family: 'PT Serif';
@@ -21,16 +21,36 @@ font-weight: 600;
   display: flex;
   height: 150px;
   justify-content: space-between;
-}  
+}
 
-.contacts {
-height: 100px;  
+.avatar {
+  margin-top: 25px;
+  margin-left: 80px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+
+  border-radius: 10%;
+  height: 60px;
+}
+
+.h1 {
+  height: 100px;
   padding-top: 22px;
   width: 33%;
   font-family: 'Open Sans';
   font-size: 12px;
   text-align: start;
-}  
+}
+.contacts {
+  /* border-left: 10px solid black; */
+  height: 60px;
+  margin-top: 22px;
+  width: 33%;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  text-align: start;
+}
 
 .container {
   width: 600px;
@@ -40,15 +60,16 @@ height: 100px;
   font-weight: 600;
   background-color: ivory;
   font-family: 'Open Sans';
-}  
+}
 
 .footer {
-  height: 60px;
+  height: 80px;
   padding-right: 15px;
-}  
+
+  text-align: right;
+}
 
 .rslogo {
-  height: 50px;
+  width: 25%;
   float: right;
-}    
-
+}
