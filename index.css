@@ -42,45 +42,45 @@ a:hover {
   text-align: start;
 }
 
-ul.no-bullet{
+ul.no-bullet {
   list-style-type: none;
   padding: 0;
 }
 
-li.gh{
+li.gh {
   background-image: url('assets/gh.svg');
   margin: 0;
-	padding: 0px 0px 0px 15px;
+  padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
-	background-position: left center;
-	background-size: 12px;
+  background-position: left center;
+  background-size: 12px;
 }
 
-li.tlg{
+li.tlg {
   background-image: url('assets//telegram.svg');
   margin: 0;
-	padding: 0px 0px 0px 15px;
+  padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
-	background-position: left center;
-	background-size: 12px;
+  background-position: left center;
+  background-size: 12px;
 }
 
-li.gmail{
+li.gmail {
   background-image: url('assets/gmail.svg');
   margin: 0;
-	padding: 0px 0px 0px 15px;
+  padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
-	background-position: left center;
-	background-size: 12px;
+  background-position: left center;
+  background-size: 12px;
 }
 
-li.ru{
+li.ru {
   background-image: url('assets/ru.svg');
   margin: 0;
-	padding: 0px 0px 0px 15px;
+  padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
-	background-position: left center;
-	background-size: 12px;
+  background-position: left center;
+  background-size: 12px;
 }
 
 .contacts {
