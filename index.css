@@ -48,7 +48,7 @@ ul.no-bullet {
 }
 
 li.gh {
-  background-image: url('assets/gh.svg');
+  background-image: url('Assets/gh.svg');
   margin: 0;
   padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
@@ -57,7 +57,7 @@ li.gh {
 }
 
 li.tlg {
-  background-image: url('assets//telegram.svg');
+  background-image: url('Assets//telegram.svg');
   margin: 0;
   padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
@@ -66,7 +66,7 @@ li.tlg {
 }
 
 li.gmail {
-  background-image: url('assets/gmail.svg');
+  background-image: url('Assets/gmail.svg');
   margin: 0;
   padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
@@ -75,7 +75,7 @@ li.gmail {
 }
 
 li.ru {
-  background-image: url('assets/ru.svg');
+  background-image: url('Assets/ru.svg');
   margin: 0;
   padding: 0px 0px 0px 15px;
   background-repeat: no-repeat;
