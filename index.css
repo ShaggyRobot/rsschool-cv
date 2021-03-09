@@ -9,10 +9,12 @@ a:hover {
   color: rgb(34, 196, 107);
 }
 
-.h3 {
+h3 {
+  margin-bottom: 2px;
   font-family: 'PT Serif';
   font-size: 20px;
   font-weight: 600;
+  line-height: 20px;
 }
 
 .header {
@@ -33,18 +35,9 @@ a:hover {
   height: 60px;
 }
 
-.h1 {
-  height: 100px;
-  padding-top: 22px;
-  width: 33%;
-  font-family: 'Open Sans';
-  font-size: 12px;
-  text-align: start;
-}
-
-ul.no-bullet {
+ul {
   list-style-type: none;
-  padding: 0;
+  padding: 0px;
 }
 
 li.gh {
@@ -83,7 +76,7 @@ li.ru {
   background-size: 12px;
 }
 
-.contacts {
+section {
   height: 60px;
   margin-top: 11px;
   margin-right: 15px;
@@ -92,7 +85,7 @@ li.ru {
   text-align: start;
 }
 
-.container {
+main {
   border: 1px solid rgb(173, 173, 173);
   width: 600px;
   margin: 0 auto;
@@ -103,11 +96,10 @@ li.ru {
   font-family: 'Open Sans';
 }
 
-.footer {
+footer {
+  text-align: end;
   height: 80px;
   padding-right: 15px;
-
-  text-align: right;
 }
 
 .rslogo {
